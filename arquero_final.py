@@ -214,7 +214,6 @@ def run_game(all_levels):
             if vel == 'q': break
             score, final_traj = final_trajectory(vel, ang, all_levels[L])
             plot_final_trajectory(final_traj)
-            time.sleep(3)
             pygame.display.flip()
             p_a(hit_miss_announcement(score),all_levels[L])
             cont = input()
