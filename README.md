@@ -50,4 +50,4 @@ To launch the game type in your terminal:
 `python3 arquero_v3.py`
 
 ### Process overview
-[!alt](https://i.ibb.co/TTyL8Fv/proc-flow.jpg)
+![](https://i.ibb.co/TTyL8Fv/proc-flow.jpg)
