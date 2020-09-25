@@ -32,11 +32,11 @@ This game was developed using python 3.8. Here are information about how to inst
 
 Now that you have every thing you need to run the game you need to download the game. There are several ways of doing so. If you have git installed on your computer, open a terminal in the folder where you want the game installed and then type:
 
-    git clone https://github.com/philip-harman/el_arquero.git
+    git clone https://github.com/philip-harman/arquero_v3.git
 
  If you don't have git click the 'Clone or download' button and then 'Download ZIP'. Once this is done, just unzip that file wherever you want the game to sit on your machine.
 
 ### Lauching the game
 
 To launch the game type in your terminal:  
-`python3 el_arquero.py`
+`python3 arquero_v3.py`
