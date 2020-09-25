@@ -48,3 +48,6 @@ Now that you have every thing you need to run the game you need to download the 
 To launch the game type in your terminal:
 
 `python3 arquero_v3.py`
+
+### Process overview
+[!alt](https://i.ibb.co/TTyL8Fv/proc-flow.jpg)
