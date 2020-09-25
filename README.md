@@ -6,7 +6,7 @@
 
 ### Description
 
-El arquero is a mini game made with Python using `matplot.lib`, `numpy` and `math`libraries. In this game an arrow is shooted by an archer on the left side of the screen and, on the other side, is a target. The player's goal is to shoot arrows at the target.
+El arquero is a mini game made with Python using `pygame`, `numpy` and `math`libraries. In this game an arrow is shot by an archer on the left side of the screen and, on the other side, is a target. The player's goal is to shoot arrows at the target.
 
 The game consists of 5 levels where the difficulty will be increased by adding obstacles, and increasing the wind speed.
 
@@ -16,9 +16,10 @@ In game:
 
 | Action | Key |
 |--|--|
-|  shoot angle| press space bar|
-|  shoot arrow| release space bar|
-| pause game|  escape|
+|  shoot velocity| input in terminal (0-100)|
+|  shoot angle| input in terminal (0-90)|
+| quit|  input "q"|
+| continue | input "A + ENTER"|
 
 ### Requirements
 
