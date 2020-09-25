@@ -37,7 +37,7 @@ To install pygame type the following command in your terminal:
 
 Now that you have every thing you need to run the game you need to download the game. There are several ways of doing so. If you have git installed on your computer, open a terminal in the folder where you want the game installed and then type:
 
-    git clone https://github.com/philip-harman/arquero_v3.git
+    git clone https://github.com/philip-harman/el_arquero.git
 
  If you don't have git click the 'Clone or download' button and then 'Download ZIP'. Once this is done, just unzip that file wherever you want the game to sit on your machine.
 
