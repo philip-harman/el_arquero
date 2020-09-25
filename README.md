@@ -10,6 +10,8 @@ El arquero is a mini game made with Python using `pygame`, `numpy` and `math`lib
 
 The game consists of 5 levels where the difficulty will be increased by adding obstacles also the wind speed will change.
 
+![](https://i.ibb.co/txwCT1h/background.png)
+
 ### Controls
 
 In game:
@@ -44,5 +46,5 @@ Now that you have every thing you need to run the game you need to download the 
 ### Lauching the game
 
 To launch the game type in your terminal:
-  
+
 `python3 arquero_v3.py`
